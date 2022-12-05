@@ -1,0 +1,11 @@
+/mnt/e/P/SRC/Eng/Lang/cpp/langAlg/build/CMakeFiles/arrayLst.dir
+/mnt/e/P/SRC/Eng/Lang/cpp/langAlg/build/CMakeFiles/dp.dir
+/mnt/e/P/SRC/Eng/Lang/cpp/langAlg/build/CMakeFiles/findNxBigSml.dir
+/mnt/e/P/SRC/Eng/Lang/cpp/langAlg/build/CMakeFiles/mapSet.dir
+/mnt/e/P/SRC/Eng/Lang/cpp/langAlg/build/CMakeFiles/rmvDup.dir
+/mnt/e/P/SRC/Eng/Lang/cpp/langAlg/build/CMakeFiles/stakQu.dir
+/mnt/e/P/SRC/Eng/Lang/cpp/langAlg/build/CMakeFiles/temp.dir
+/mnt/e/P/SRC/Eng/Lang/cpp/langAlg/build/CMakeFiles/tree.dir
+/mnt/e/P/SRC/Eng/Lang/cpp/langAlg/build/CMakeFiles/tstBtutils.dir
+/mnt/e/P/SRC/Eng/Lang/cpp/langAlg/build/CMakeFiles/edit_cache.dir
+/mnt/e/P/SRC/Eng/Lang/cpp/langAlg/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,109 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "Clang",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"/usr/local/cuda/include",
+						"/home/butter/CODES/Andr/ndk/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/local/include",
+						"/home/butter/CODES/Andr/ndk/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/12.0.9/include",
+						"/home/butter/CODES/Andr/ndk/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android",
+						"/home/butter/CODES/Andr/ndk/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include"
+					],
+					"linkDirectories" : 
+					[
+						"/home/butter/CODES/Andr/ndk/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/12.0.9/lib/linux/aarch64",
+						"/home/butter/CODES/Andr/ndk/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/lib/gcc/aarch64-linux-android/4.9.x",
+						"/home/butter/CODES/Andr/ndk/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/21",
+						"/home/butter/CODES/Andr/ndk/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android",
+						"/home/butter/CODES/Andr/ndk/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"-l:libunwind.a",
+						"dl",
+						"c",
+						"-l:libunwind.a",
+						"dl"
+					]
+				},
+				"path" : "/home/butter/CODES/Andr/ndk/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+				"target" : "aarch64-none-linux-android21",
+				"version" : "12.0.9"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "Clang",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"/usr/local/cuda/include",
+						"/home/butter/CODES/Andr/ndk/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/c++/v1",
+						"/home/butter/CODES/Andr/ndk/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/local/include",
+						"/home/butter/CODES/Andr/ndk/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/12.0.9/include",
+						"/home/butter/CODES/Andr/ndk/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android",
+						"/home/butter/CODES/Andr/ndk/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include"
+					],
+					"linkDirectories" : 
+					[
+						"/home/butter/CODES/Andr/ndk/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/12.0.9/lib/linux/aarch64",
+						"/home/butter/CODES/Andr/ndk/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/lib/gcc/aarch64-linux-android/4.9.x",
+						"/home/butter/CODES/Andr/ndk/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/21",
+						"/home/butter/CODES/Andr/ndk/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android",
+						"/home/butter/CODES/Andr/ndk/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"c++",
+						"m",
+						"-l:libunwind.a",
+						"dl",
+						"c",
+						"-l:libunwind.a",
+						"dl"
+					]
+				},
+				"path" : "/home/butter/CODES/Andr/ndk/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++",
+				"target" : "aarch64-none-linux-android21",
+				"version" : "12.0.9"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

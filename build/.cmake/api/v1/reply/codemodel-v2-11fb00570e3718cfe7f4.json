@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "plygrd",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "arrayLst::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-arrayLst-ad30de5d686187795043.json",
+					"name" : "arrayLst",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dp-fb655d1ca50b027cf646.json",
+					"name" : "dp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "findNxBigSml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-findNxBigSml-08a7999d5adba348ae53.json",
+					"name" : "findNxBigSml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mapSet::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mapSet-d74315996c6fe3950e25.json",
+					"name" : "mapSet",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rmvDup::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rmvDup-5598d7aabebd8f10eaed.json",
+					"name" : "rmvDup",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stakQu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stakQu-de1105945559eb8f0d62.json",
+					"name" : "stakQu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "temp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-temp-1e4f6dc7073d28c728dd.json",
+					"name" : "temp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tree-d4db8d71c190a5cbccfb.json",
+					"name" : "tree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tstBtutils::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tstBtutils-f2774b84f942f4853b35.json",
+					"name" : "tstBtutils",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/e/P/SRC/Eng/Lang/cpp/langAlg/build",
+		"source" : "/mnt/e/P/SRC/Eng/Lang/cpp/langAlg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
