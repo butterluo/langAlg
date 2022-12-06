@@ -1,7 +1,7 @@
 {  
   "cmake.buildBeforeRun": false,
   "cmake.configureArgs": [
-    "-DCMAKE_TOOLCHAIN_FILE:FILEPATH=$ANDROID_NDK/build/cmake/android.toolchain.cmake",
+    "-DCMAKE_TOOLCHAIN_FILE:FILEPATH=${env:ANDROID_NDK}/build/cmake/android.toolchain.cmake",
     "-DANDROID_ABI:STRING=arm64-v8a",
     "-DANDROID_STL:STRING=c++_static",
     "-DANDROID_NATIVE_API_LEVEL=android-21",
@@ -102,6 +102,6 @@
     "target": "cpp"
   },
   "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
-  "C_Cpp.default.intelliSenseMode": "linux-gcc-x64",
+  "C_Cpp.default.intelliSenseMode": "clang-x64",
   "C_Cpp.errorSquiggles": "EnabledIfIncludesResolve"
 }
